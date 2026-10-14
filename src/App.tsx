@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import happySrc from "./assets/bunny_happy.jpg";
-import stareSrc from "./assets/bunny_stare.jpg";
-import horrorSrc from "./assets/bunny_horror.jpg";
-import carrotSrc from "./assets/carrot.jpg";
+import happySrc from "./assets/bunny_happy.png";
+import stareSrc from "./assets/bunny_stare.png";
+import horrorSrc from "./assets/bunny_horror.png";
+import carrotSrc from "./assets/carrot.png";
 import meadowSrc from "./assets/meadow.jpg";
 import { removeBackground } from "./lib/removeBg";
 import { audio } from "./lib/audio";
